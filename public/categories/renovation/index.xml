@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renovation on Dunn&#39;s Construction</title>
+    <link>http://192.168.4.79:1313/categories/renovation/</link>
+    <description>Recent content in Renovation on Dunn&#39;s Construction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Joshua Dunn)</managingEditor>
+    <webMaster>user@example.com (Joshua Dunn)</webMaster>
+    <copyright>Joshua Dunn</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0500</lastBuildDate><atom:link href="http://192.168.4.79:1313/categories/renovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kitchens</title>
+      <link>http://192.168.4.79:1313/projects/24-jan-24/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0500</pubDate><author>user@example.com (Joshua Dunn)</author>
+      <guid>http://192.168.4.79:1313/projects/24-jan-24/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
